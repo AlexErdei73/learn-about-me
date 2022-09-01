@@ -13,4 +13,4 @@ depricated ones.
 2. Clone the repository
 3. `cd learn-about-me` and `npm i` to install the dependancies.
 4. `npm start` will start the app.js file, which is an Express app.
-5. Open with your browser the [](http://localhost:3000).
+5. Open with your browser the http://localhost:3000 .
